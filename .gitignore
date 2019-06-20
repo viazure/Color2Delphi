@@ -2,6 +2,5 @@
 *.local
 *.cfg
 *.identcache
-*.res
 *.exe
 /__history/
